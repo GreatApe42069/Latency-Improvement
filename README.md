@@ -18,5 +18,5 @@ To implement these improvements in your Dogecoin node, follow these steps:
 1. Clone the Dogecoin repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourGitHubUsername/dogecoin.git
+   git clone https://github.com/GreatApe42069/dogecoin.git
 
