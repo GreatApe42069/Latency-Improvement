@@ -65,6 +65,9 @@ Improved Network Efficiency:
 *Optimizations in network communication will result in lower-latency interactions between nodes, contributing to a smoother and more efficient network operation.*
 
 **The proposed changes are not only theoretically sound but also align with the goals of improving the Dogecoin network's performance**
+
+# *Important Note*
+ ***These codes are untested and may require thorough testing and consideration before being implemented in a live environment.
    ```bash
    git clone https://github.com/GreatApe42069/Dogecoin_improvements/Latency_upgrade.cpp.git
 
